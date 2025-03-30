@@ -51,9 +51,11 @@ npm install
 
 ## ▶️ Running the Server
 
+```
 npm start
+```
+Your server will be running on: 
 
-Your server will be running on:  
 http://localhost:5001
 
 ## 📡 API Endpoints
