@@ -40,9 +40,14 @@ PORT=5001
 
 ```
 git clone https://github.com/Dibyendu-13/ai-resume-tailor-backend.git
+```
+```
 cd ai-resume-tailor-backend
+```
+```
 npm install
 ```
+
 
 ## ▶️ Running the Server
 
