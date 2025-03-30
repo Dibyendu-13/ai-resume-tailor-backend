@@ -39,8 +39,8 @@ PORT=5001
 ## 📦 Installation
 
 
-git clone https://github.com/Dibyendu-13/ai-tailored-resume.git
-cd ai-tailored-resume
+git clone https://github.com/Dibyendu-13/ai-resume-tailor-backend.git
+cd ai-resume-tailor-backend
 npm install
 
 ## ▶️ Running the Server
