@@ -21,11 +21,13 @@ This is a Node.js + Express backend that allows users to upload a resume (PDF), 
 
 ## 📁 Project Structure
 
-.
+```
 ├── uploads/              # Temporary folder for uploaded PDFs
 ├── .env                  # Environment variables (you must create this)
 ├── server.js             # Main Express app
 └── README.md             # You're here!
+
+```
 
 ## 🔐 Environment Variables
 
